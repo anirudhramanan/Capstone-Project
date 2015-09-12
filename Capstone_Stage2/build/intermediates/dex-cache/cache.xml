@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-b2a553c0a37ce872890a44a0b42f943363a72178.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0-b0aa533cd5d525d9ec48324bb1df9ab9acc8d9ac.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-c6d5cb8282a8d319c326d7b6837f895ceca039a5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-78bed5ee0dd006ec919539f8c97eae1e1f61ec00.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/libs/ParseFacebookUtilsV4-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81f498fa332ac7dff56ccbbef03e3d9f96ff67c8">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/ParseFacebookUtilsV4-1.10.1-518ff8899e3b589ce960c5258398445d793d48ea.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-5ca87c8c9a9ef73383c3306fd0cd61481e8bead8.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-c3c8dfa4a1ba0bd40cae14b96df29f8030851033.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/picasso-2.5.2-09196824342fb9b3f048193573aac55317454217.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-1a6e1b1c0ae2353cc5ede4fa68b87ad0583b65ed.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-f589f79d73053532bb790a440a716c6bcd31a2b5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-56b7f3689ab6edf3140e6ad73a6bc435237f32ff.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-13c8ac042edc2e8a8519622afe59154214de3bb2.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-cf5df760a1804b37e39a020fd81cbcf2c9301fc9.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/bolts-android-1.1.4-a7f1d3576de9e15232d6e520b9158b568f9ef647.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/libs/Parse-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="181b435832725bec96c11ff568bdfbccdacab944">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/Parse-1.10.1-cec2b71e03e1c9f356da992fa36a976fada5f63f.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-4a2a9694625b7070b1c012d41d12f810b4fdf81a.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-c080a6b57d9cb74995f9d705e00320560d13daf6.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/volley-f98d9907a8718381a6f40afbc7488c95ba3520a3.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-a7430cd2b715c119f09ece4852a4bd6ee975eaf5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Documents/AndroidSdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/support-annotations-23.0.0-2f81123e1e54da3b7b4d083344590d31f36e990d.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-d0bfa303855552cfb9a7fe89130bc1285da928b1.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-c733db6211b93f785f1c9003821ffb2836111aa8.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-fa6b1b3017b0d022f0d5aff00668705d654291c6.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-a6cb00ca21b231a679ed507533f21c5562cc2a1a.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-70298da2fe570851683f06b5b4ebe645e0278ee9.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-767f8309b14f9268ef60de2d296b13692d0c63b7.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-650e907161c8150b8889afc3098e0cf88a842fd0.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-f46f689071e22a8bd2df14c3181414fee534d9b9.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-f8e85f375bcd259e8a6b2c3da8e537fae44608bb.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-6619d8b5267e7159d43da897922d8c016e9a100a.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0-72d9dbbc1a0d8144a53bee2d393f63e12b43febd.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-644e534181c7c4b5ab4d26852f4390757431e96d.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-46b977547f55f5b2244fc583ded9f39dcf31e11a.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-b87986066b081fb6b789cf3d5aa2022af0833fb5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-55b101a3cd70e68f3662cf50d4ea15d10a2fcbc4.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-c0a3da50462647862bb4bd6d0108cbdb900e30ed.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-37b26c4584b0f89f71c33c7e6007a609a195a8d6.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-592b66fabe8bcc0132ef9d35f8903810a49d92fb.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/Anirudh/Desktop/Android/TravelAdvisor/app/build/intermediates/pre-dexed/release/classes-cac70a2068d38486180b3ebf8c82d04da94d6ee0.jar" />
+    </item>
+
+</items>

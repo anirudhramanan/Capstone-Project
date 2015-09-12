@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/r"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <com.mindsparkk.traveladvisor.Utils.MyBoldTextView
+                android:id="@+id/authorname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:textColor="#000"
+                android:textSize="23sp" />
+
+            <RatingBar
+                android:id="@+id/rating"
+                style="@style/CustomRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_marginTop="10dp"
+                android:isIndicator="true"
+                android:numStars="5" />
+
+        </RelativeLayout>
+
+        <com.mindsparkk.traveladvisor.Utils.MyTextView
+            android:id="@+id/authorreview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/r"
+            android:lineSpacingExtra="4dp"
+            android:paddingBottom="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:textColor="#3f3f3f"
+            android:textSize="23sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

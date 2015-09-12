@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tool_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:elevation="2dp"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/Base.ThemeOverlay.AppCompat.Dark">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/f"
+            android:textColor="#fff"
+            android:textSize="18sp" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/t"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/tool_bar"
+        android:background="#dfdfdf"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/from"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/from"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t">
+
+        <TextView
+            android:id="@+id/fromName"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/delhi"
+            android:textColor="#000"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/ic_down" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/from"
+        android:background="#dfdfdf"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/to"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/to"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/t1">
+
+        <TextView
+            android:id="@+id/toName"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="20dp"
+            android:text="@string/bang"
+            android:textColor="#000"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/ic_down" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:text="@string/search"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+</RelativeLayout>
