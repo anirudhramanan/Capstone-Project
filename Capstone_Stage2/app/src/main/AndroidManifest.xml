@@ -42,7 +42,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY" />
+            android:value="API_KEY" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
@@ -132,6 +132,14 @@
         </receiver>
 
         <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
+
+        <receiver android:name="MyAppWidgetProvider" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider"
+                android:resource="@xml/example_appwidget_info" />
+        </receiver>
 
     </application>
 
